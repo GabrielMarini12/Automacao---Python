@@ -59,7 +59,7 @@ pyautogui.press("enter")
 time.sleep(4)
 
 #colocando a senha
-pyperclip.copy("Drugm12*")
+pyperclip.copy("(coloque sua senha)")
 pyautogui.hotkey("ctrl", "v")
 pyautogui.press("enter")
 
